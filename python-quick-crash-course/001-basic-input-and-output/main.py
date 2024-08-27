@@ -1,4 +1,4 @@
-'''
+2'''
 main.py is a file dedicated to demonstrate the following concepts in python:
 a. How to print information
 b. How to collect information from a user
